@@ -1,0 +1,66 @@
+2021-12-15 20:12:238 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 20:12:357 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 20:12:479 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 20:12:358 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 20:12:195 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 20:12:359 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 20:12:786 INFO  HomePage :93 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (169478d1352600ce31d142de782d4edd)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 20:12:423 INFO  HomePage :70 - Enter job title [[ChromeDriver: chrome on WINDOWS (169478d1352600ce31d142de782d4edd)] -> xpath: //input[@id='keywords']]
+2021-12-15 20:12:500 INFO  HomePage :77 - Enter job Location [[ChromeDriver: chrome on WINDOWS (169478d1352600ce31d142de782d4edd)] -> xpath: //input[@id='location']]
+2021-12-15 20:12:607 INFO  HomePage :84 - select Distance : [[ChromeDriver: chrome on WINDOWS (169478d1352600ce31d142de782d4edd)] -> xpath: //select[@id='distance']]
+2021-12-15 20:12:685 INFO  HomePage :100 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (169478d1352600ce31d142de782d4edd)] -> xpath: //input[@id='salarymin']]
+2021-12-15 20:12:754 INFO  HomePage :110 - Click on Search Option Button: [[ChromeDriver: chrome on WINDOWS (169478d1352600ce31d142de782d4edd)] -> xpath: //input[@id='salarymax']]
+2021-12-15 20:12:812 INFO  HomePage :118 - Select Salary type  : [[ChromeDriver: chrome on WINDOWS (169478d1352600ce31d142de782d4edd)] -> xpath: //select[@id='salarytype']]
+2021-12-15 20:12:886 INFO  HomePage :126 - Select Job type : [[ChromeDriver: chrome on WINDOWS (169478d1352600ce31d142de782d4edd)] -> xpath: //select[@id='tempperm']]
+2021-12-15 20:12:817 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 21:12:162 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 21:12:337 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 21:12:861 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 21:12:706 INFO  HomePage :93 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 21:12:180 INFO  HomePage :70 - Enter job title [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //input[@id='keywords']]
+2021-12-15 21:12:331 INFO  HomePage :77 - Enter job Location [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //input[@id='location']]
+2021-12-15 21:12:425 INFO  HomePage :84 - select Distance : [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //select[@id='distance']]
+2021-12-15 21:12:489 INFO  HomePage :100 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //input[@id='salarymin']]
+2021-12-15 21:12:565 INFO  HomePage :110 - Click on Search Option Button: [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //input[@id='salarymax']]
+2021-12-15 21:12:627 INFO  HomePage :118 - Select Salary type  : [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //select[@id='salarytype']]
+2021-12-15 21:12:710 INFO  HomePage :126 - Select Job type : [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //select[@id='tempperm']]
+2021-12-15 21:12:804 INFO  HomePage :134 - Click on 'ADD TO CART' Button : [[ChromeDriver: chrome on WINDOWS (a2497ea86f5f78d25c322f3831d00f43)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 21:12:409 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 21:12:160 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 21:12:354 INFO  HomePage :93 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 21:12:855 INFO  HomePage :70 - Enter job title [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //input[@id='keywords']]
+2021-12-15 21:12:949 INFO  HomePage :77 - Enter job Location [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //input[@id='location']]
+2021-12-15 21:12:38 INFO  HomePage :84 - select Distance : [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //select[@id='distance']]
+2021-12-15 21:12:101 INFO  HomePage :100 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //input[@id='salarymin']]
+2021-12-15 21:12:159 INFO  HomePage :110 - Click on Search Option Button: [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //input[@id='salarymax']]
+2021-12-15 21:12:231 INFO  HomePage :118 - Select Salary type  : [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //select[@id='salarytype']]
+2021-12-15 21:12:330 INFO  HomePage :126 - Select Job type : [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //select[@id='tempperm']]
+2021-12-15 21:12:396 INFO  HomePage :134 - Click on 'ADD TO CART' Button : [[ChromeDriver: chrome on WINDOWS (648e031cdfe4c2965eda4bd8c15949b9)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 21:12:858 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 21:12:735 INFO  HomePage :93 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 21:12:83 INFO  HomePage :70 - Enter job title [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //input[@id='keywords']]
+2021-12-15 21:12:201 INFO  HomePage :77 - Enter job Location [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //input[@id='location']]
+2021-12-15 21:12:384 INFO  HomePage :84 - select Distance : [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //select[@id='distance']]
+2021-12-15 21:12:447 INFO  HomePage :100 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //input[@id='salarymin']]
+2021-12-15 21:12:507 INFO  HomePage :110 - Click on Search Option Button: [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //input[@id='salarymax']]
+2021-12-15 21:12:560 INFO  HomePage :118 - Select Salary type  : [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //select[@id='salarytype']]
+2021-12-15 21:12:631 INFO  HomePage :126 - Select Job type : [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //select[@id='tempperm']]
+2021-12-15 21:12:726 INFO  HomePage :134 - Click on 'ADD TO CART' Button : [[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 21:12:753 INFO  ResultPage :35 - Result message: [[[ChromeDriver: chrome on WINDOWS (966b663f94d8a53eb7f94372a8cf4c34)] -> class: search-header__title]]
+2021-12-15 21:12:435 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:350 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:657 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:289 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:80 INFO  HomePage :93 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 22:12:465 INFO  HomePage :70 - Enter job title [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //input[@id='keywords']]
+2021-12-15 22:12:623 INFO  HomePage :77 - Enter job Location [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //input[@id='location']]
+2021-12-15 22:12:759 INFO  HomePage :84 - select Distance : [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //select[@id='distance']]
+2021-12-15 22:12:815 INFO  HomePage :100 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //input[@id='salarymin']]
+2021-12-15 22:12:895 INFO  HomePage :110 - Click on Search Option Button: [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //input[@id='salarymax']]
+2021-12-15 22:12:954 INFO  HomePage :118 - Select Salary type  : [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //select[@id='salarytype']]
+2021-12-15 22:12:28 INFO  HomePage :126 - Select Job type : [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //select[@id='tempperm']]
+2021-12-15 22:12:97 INFO  HomePage :134 - Click on 'ADD TO CART' Button : [[ChromeDriver: chrome on WINDOWS (e837d225025ba404f6f3fec31c271290)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 22:12:590 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:470 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:214 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:882 INFO  ManageDriver :32 - Launching Chrome Browser
